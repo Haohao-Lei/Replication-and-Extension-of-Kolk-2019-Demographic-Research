@@ -8,7 +8,7 @@ Below are the R scripts and data used to produce all results in the manuscript a
 
 - Country_Year_V-Dem_SPSS_v7.1: Data with the gender index from the VoD dataset used to replicate Kolk’s (2019) original study.
 
-- fertility: Data file with period tfr and tempo-adjusted tfr across years from HFD.
+- fertility: Data file with period TFR and tempo-adjusted TFR across years from HFD.
 
 - Gender equality: Data file that includes the Historical Gender Equality Index (HGEI) used in my analysis.
 
