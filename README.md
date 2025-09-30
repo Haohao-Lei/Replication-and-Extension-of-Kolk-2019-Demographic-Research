@@ -1,8 +1,8 @@
-This repository contains the data and replication code for the article “Reassessing the U-Shaped Relationship Between Gender Equality and Fertility: A Replication and Extension of Kolk (2019) Using Comprehensive Gender Equality Measures”, published in Demographic Research. The project replicates and extends Kolk (2019) by incorporating the Historical Gender Equality Index (HGEI) and adjusting for tempo distortions in period total fertility rates.
+This repository contains the data and replication code for the article “Reassessing the U-Shaped Relationship Between Gender Equality and Fertility: A Replication and Extension of Kolk (2019) Using Comprehensive Gender Equality Measures”, published in Demographic Research. 
 
-All data used are publicly available, and details on data sources are provided in the paper and Appendix.
+The project replicates and extends Kolk (2019) by incorporating the Historical Gender Equality Index (HGEI) and adjusting for tempo distortions in period total fertility rates. All data used are publicly available, and details on data sources are provided in the paper and Appendix.
 
-Below are the R scripts to produce all results in the manuscript and replicate Kolk’s (2019) original study.
+Below are the R scripts and data used to produce all results in the manuscript and replicate Kolk’s (2019) original study.
 
 - Coding.R: Contains a script to produce all results and graphs in the table, as well as a replication of Kolk’s (2019) original study.
 
